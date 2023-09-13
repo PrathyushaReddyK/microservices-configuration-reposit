@@ -1,2 +1,3 @@
-Hospitalrest.Facility.Service.url=http://localhost:8084/hfacility/getAllFacilitie
+Hospitalrest.Facility.Service
+ url: http://localhost:8084/hfacility/getAllFacilitie
 
